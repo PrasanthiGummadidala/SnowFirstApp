@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2e01e69f9f6332107f440d5ec424ab5a" label="Outbound" max_length="40" name="x_cdltd_loaner_r_0_outbound" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="IP" max_length="40" name="ip" type="string"/>
+    </element>
+</database>
